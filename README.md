@@ -21,3 +21,9 @@ This command will take the specified image file, send it to [Google Cloud's Visi
 `live-text.py -i PATH-TO-IMAGE-FILE -c`
 
 ...does the same but also copies the text to the macOS clipboard.
+
+### Sample Images
+
+The sample images in the repository are from Apple's September 2021, "[California Streaming](https://www.apple.com/apple-events/september-2021/)" event that announced the iPhone 13's and a lot more. I usually live tweet events like that and have a script that automatically takes these screen captures. 
+
+It would be useful in this use case and many others, to be able to automatically extract the text from any given image.
